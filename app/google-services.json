@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "68076189645",
+    "project_id": "login-app-1af5d",
+    "storage_bucket": "login-app-1af5d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68076189645:android:a3dbfb784c16e970f3f684",
+        "android_client_info": {
+          "package_name": "ketaki.mycompany.loginapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "68076189645-jqa8qpresi0mcm15f7ugh67nri8jnbin.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDv6EDFSzlfXiOBLTcPuFw9j8nggfrDlDc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "68076189645-jqa8qpresi0mcm15f7ugh67nri8jnbin.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

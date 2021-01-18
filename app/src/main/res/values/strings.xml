@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Login App</string>
+    <string name="full_name">Full name</string>
+    <string name="create_account">Create Account</string>
+    <string name="login">Login</string>
+    <string name="email">Email Id</string>
+    <string name="password">Password</string>
+
+    <string name="register">Register</string>
+    <string name="s1">Already have Account? Login here</string>
+    <string name="s2">New user? Create Account</string>
+    <string name="welcome_to_dashboard">Welcome to Dashboard</string>
+    <string name="logout">LogOut</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="verify_code">Verify Code</string>
+    <string name="send_code">Send Code</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="your_email">Your Email</string>
+    <string name="your_password">Your Password</string>
+    <string name="enter_name">Enter Name</string>
+</resources>
